@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Kiran/Desktop/Coding/Java/HospitalManagmentSystem/src/hospitalmanagmentsystem/JavaConnectToDB.java</file>
-            <file>file:/C:/Users/Kiran/Desktop/Coding/Java/HospitalManagmentSystem/src/hospitalmanagmentsystem/DoctorHomepage.java</file>
-            <file>file:/C:/Users/Kiran/Desktop/Coding/Java/HospitalManagmentSystem/src/hospitalmanagmentsystem/HospitalManagmentSystem.java</file>
-            <file>file:/C:/Users/Kiran/Desktop/Coding/Java/HospitalManagmentSystem/src/hospitalmanagmentsystem/DoctorLogin1.java</file>
-            <file>file:/C:/Users/Kiran/Desktop/Coding/Java/HospitalManagmentSystem/src/hospitalmanagmentsystem/DoctorLogin.java</file>
+            <file>file:/C:/Users/Kiran/Desktop/Coding/Project/HealthcareManagmentSystem/src/main/HealthcareManagmentSystem.java</file>
+            <file>file:/C:/Users/Kiran/Desktop/Coding/Project/HealthcareManagmentSystem/src/DoctorPages/DoctorRegister.java</file>
+            <file>file:/C:/Users/Kiran/Desktop/Coding/Project/HealthcareManagmentSystem/src/DoctorPages/DoctorPortalpage.java</file>
+            <file>file:/C:/Users/Kiran/Desktop/Coding/Project/HealthcareManagmentSystem/src/Modules/SendMail.java</file>
         </group>
     </open-files>
 </project-private>

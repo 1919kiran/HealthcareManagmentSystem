@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Healthcare Managment System.
+${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
